@@ -1,12 +1,11 @@
 # MimGenerator
-Speciality Test Algostudio Tahap 2
 
 # Screenshots
 <table>
   <tr>
-    <td>Daftar Meme</td>
+    <td>List Meme</td>
     <td>Detail Meme</td>
-    <td>Tambah Text</td>
+    <td>Add Text</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/fandi-adhitya/coding-test-algostudio/master/screenshots/1.png" width=290></td>
@@ -18,7 +17,7 @@ Speciality Test Algostudio Tahap 2
  <table>
   <tr>
     <td>Generate Meme</td>
-    <td>Bagikan Social Media</td>
+    <td>Share to Social Media</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/fandi-adhitya/coding-test-algostudio/master/screenshots/4.png" width=290></td>
